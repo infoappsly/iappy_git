@@ -1,6 +1,6 @@
 {
 	"config":"appssmart/api/main/",
 	"service":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json",
-	"servicesub":"appssmart/api/main/digital_seva/service_json/category",
+	"servicesub":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json/category",	
 	"moreapp":"appssmart/api/main/app_list_api"
 }
