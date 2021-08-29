@@ -1,6 +1,14 @@
 {
-	"config":"appssmart/api/main/",
+	"configiappy":"jenishdaruwala27031991/jdwala_git/master",
 	"service":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json",
 	"servicesub":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json/category",	
-	"moreapp":"appssmart/api/main/app_list_api"
+	"moreapp":"appssmart/api/main/app_list_api",	
+	"configjdwala":"appssmart/api/main/",
+	"servicejdwala":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json",
+	"servicesubjdwala":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json/category",	
+	"moreappjdwala":"appssmart/api/main/app_list_api",
+	"configmobapp":"appssmart/api/main/",
+	"servicemobapp":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json",
+	"servicesubmobapp":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json/category",	
+	"moreappmobapp":"appssmart/api/main/app_list_api"
 }
