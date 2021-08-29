@@ -1,14 +1,9 @@
 {
-	"configiappy":"jenishdaruwala27031991/jdwala_git/master",
-	"service":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json",
-	"servicesub":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json/category",	
-	"moreappiappy":"appssmart/api/main/app_list_api",	
-	"configjdwala":"appssmart/api/main/",
-	"servicejdwala":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json",
-	"servicesubjdwala":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json/category",	
-	"moreappjdwala":"jenishdaruwala27031991/jdwala_git/master/app_list_api",
-	"configmobapp":"appssmart/api/main/",
-	"servicemobapp":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json",
-	"servicesubmobapp":"jenishdaruwala27031991/jdwala_git/master/digital_seva/service_json/category",	
-	"moreappmobapp":"appssmart/api/main/app_list_api"
+	"configiappy":"jenishdaruwala27031991/jdwala_git/master",	
+
+	"configjdwala":"jenishdaruwala27031991/jdwala_git/master",	
+	
+	"servicemobapp":"mobapptechnology/mobapptechno_git/master/digital_seva/service_json",
+	"servicesubmobapp":"mobapptechnology/mobapptechno_git/master/digital_seva/service_json/category",	
+	"moreappmobapp":"mobapptechnology/mobapptechno_git/master/app_list_api"
 }
