@@ -8,6 +8,53 @@
 	"picmixframe":"mobapptechnology/mobapptechno_git/master/picmix",
 
 	"homeproperty":"mobapptechnology/mobapptechno_git/master/home_property/service_json",
-	"homepropertysubmobapp":"mobapptechnology/mobapptechno_git/master/home_property/service_json/category"
+	"homepropertysubmobapp":"mobapptechnology/mobapptechno_git/master/home_property/service_json/category",
+
+	"socialmedia":"mobapptechnology/mobapptechno_git/master/social_media/service_json",
+	"socialmediasubmobapp":"mobapptechnology/mobapptechno_git/master/social_media/service_json/category",
+
+	"caller_id":"mobapptechnology/mobapptechno_git/master/caller_id/service_json",
+	"calleridsubmobapp":"mobapptechnology/mobapptechno_git/master/caller_id/service_json/category",
+
+	"colors":"mobapptechnology/mobapptechno_git/master/colors/service_json",
+	"colorssubmobapp":"mobapptechnology/mobapptechno_git/master/colors/service_json/category",
+
+	"dating":"mobapptechnology/mobapptechno_git/master/dating/service_json",
+	"datingsubmobapp":"mobapptechnology/mobapptechno_git/master/dating/service_json/category",
+
+	"ranchisi":"mobapptechnology/mobapptechno_git/master/ranchi_si/service_json",
+	"ranchisisubmobapp":"mobapptechnology/mobapptechno_git/master/ranchi_si/service_json/category",
+
+	"sonypal":"mobapptechnology/mobapptechno_git/master/sony_pal/service_json",
+	"sonypalsubmobapp":"mobapptechnology/mobapptechno_git/master/sony_pal/service_json/category",
+
+	"sonysab":"mobapptechnology/mobapptechno_git/master/sony_sab/service_json",
+	"sonysabsubmobapp":"mobapptechnology/mobapptechno_git/master/sony_sab/service_json/category",
+
+	"starbharat":"mobapptechnology/mobapptechno_git/master/star_bharat/service_json",
+	"starbharatsubmobapp":"mobapptechnology/mobapptechno_git/master/star_bharat/service_json/category",
+
+	"stargold":"mobapptechnology/mobapptechno_git/master/star_gold/service_json",
+	"stargoldsubmobapp":"mobapptechnology/mobapptechno_git/master/star_gold/service_json/category",
+
+	"starmaa":"mobapptechnology/mobapptechno_git/master/star_maa/service_json",
+	"starmaasubmobapp":"mobapptechnology/mobapptechno_git/master/star_maa/service_json/category",
+
+	"starplus":"mobapptechnology/mobapptechno_git/master/star_plus/service_json",
+	"starplussubmobapp":"mobapptechnology/mobapptechno_git/master/star_plus/service_json/category",
+
+	"starutsav":"mobapptechnology/mobapptechno_git/master/star_utsav/service_json",
+	"starutsavsubmobapp":"mobapptechnology/mobapptechno_git/master/star_utsav/service_json/category",
+
+	"starvijay":"mobapptechnology/mobapptechno_git/master/star_vijay/service_json",
+	"starvijaysubmobapp":"mobapptechnology/mobapptechno_git/master/star_vijay/service_json/category",
+
+	"suntv":"mobapptechnology/mobapptechno_git/master/sun_tv/service_json",
+	"suntvsubmobapp":"mobapptechnology/mobapptechno_git/master/sun_tv/service_json/category",
 	
+	"thoptv":"mobapptechnology/mobapptechno_git/master/thop_tv/service_json",
+	"thoptvsubmobapp":"mobapptechnology/mobapptechno_git/master/thop_tv/service_json/category",
+
+	"zeetvtelugu":"mobapptechnology/mobapptechno_git/master/zee_tv_telugu/service_json",
+	"zeetvtelugusubmobapp":"mobapptechnology/mobapptechno_git/master/zee_tv_telugu/service_json/category"
 }
