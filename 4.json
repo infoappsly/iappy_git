@@ -2,7 +2,7 @@
   "status": "1",
   "data": [
       {
-          "id": "1",
+          "id": "4",
           "fb_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
           "fb_native_exit_screen_first": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
           "fb_native_exit_screen_second": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -59,7 +59,7 @@
           "is_more_app": "n",
           "is_more_app_url": "https://raw.githubusercontent.com/appssmart/api/main/app_list_api/get_app_list.json",
           "disclaimer_message": "disclaimer message \n\n message",
-          "app_title": "Free TV Guide",
+          "app_title": "Free Guide",
           "is_active": "1",
           "front_native": "4",
           "inner_native": "2",
