@@ -8,8 +8,12 @@
 	"moreappmobappetc":"mobapptechnology/mobapptechno_git/master/app_list_api/etc",
 	"picmixframe":"mobapptechnology/mobapptechno_git/master/picmix",
 
-	"birthdaysongwithnamefifteeninoneapp":"mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/frames",
-	"birthdaysongwithnamefifteeninoneappframemain":"mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/frames",
+	"bswnfifteeninoneapp":"mobapptechnology/mobapptechno_git/master/bswnfifteeninoneapp/frames",
+	"bswnfifteeninoneappframemain":"mobapptechnology/mobapptechno_git/master/bswnfifteeninoneappframemain/framemain",
+	"bswnfifteeninoneappcategorylink":"mobapptechnology/mobapptechno_git/master/bswnfifteeninoneappcategorylink/categorylink",
+	"bswnfifteeninoneappcategoryquotes":"mobapptechnology/mobapptechno_git/master/bswnfifteeninoneappcategoryquotes/categoryquotes",
+	"bswnfifteeninoneappquotes":"mobapptechnology/mobapptechno_git/master/bswnfifteeninoneappquotes/quotes",
+
 
 
 	"homeproperty":"mobapptechnology/mobapptechno_git/master/home_property/service_json",
