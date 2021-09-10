@@ -69,7 +69,7 @@
           "open_ads_type": "1",
           "ad_interval_time": "1",
           "gg_app_id": "77828871",
-          "is_image_playstore": "y",
+          "is_image_playstore": "n",
           "package_name": "com.Birthdays.alarm.reminderAlert",
           "img_url": "",
           "img_url_splash": "https://raw.githubusercontent.com/appssmart/api/main/digital_seva/other/quiz_image.jpg",
