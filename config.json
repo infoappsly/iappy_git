@@ -72,5 +72,8 @@
 	"thoptvsubmobapp":"mobapptechnology/mobapptechno_git/master/thop_tv/service_json/category",
 
 	"zeetvtelugu":"mobapptechnology/mobapptechno_git/master/zee_tv_telugu/service_json",
-	"zeetvtelugusubmobapp":"mobapptechnology/mobapptechno_git/master/zee_tv_telugu/service_json/category"
+	"zeetvtelugusubmobapp":"mobapptechnology/mobapptechno_git/master/zee_tv_telugu/service_json/category",
+
+	"airteltv":"mobapptechnology/mobapptechno_git/master/airteltv/service_json",
+	"airteltvsubmobapp":"mobapptechnology/mobapptechno_git/master/airteltv/service_json/category"
 }
