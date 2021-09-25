@@ -29,7 +29,7 @@
 	"socialmedia":"mobapptechnology/mobapptechno_git/master/social_media/service_json",
 	"socialmediasubmobapp":"mobapptechnology/mobapptechno_git/master/social_media/service_json/category",
 
-	"caller_id":"mobapptechnology/mobapptechno_git/master/caller_id/service_json",
+	"callerid":"mobapptechnology/mobapptechno_git/master/caller_id/service_json",
 	"calleridsubmobapp":"mobapptechnology/mobapptechno_git/master/caller_id/service_json/category",
 
 	"colors":"mobapptechnology/mobapptechno_git/master/colors/service_json",
@@ -75,5 +75,18 @@
 	"zeetvtelugusubmobapp":"mobapptechnology/mobapptechno_git/master/zee_tv_telugu/service_json/category",
 
 	"airteltv":"mobapptechnology/mobapptechno_git/master/airteltv/service_json",
-	"airteltvsubmobapp":"mobapptechnology/mobapptechno_git/master/airteltv/service_json/category"
+	"airteltvsubmobapp":"mobapptechnology/mobapptechno_git/master/airteltv/service_json/category",
+
+	"zeeanmol":"mobapptechnology/mobapptechno_git/master/zee_anmol/service_json",
+	"zeeanmolsubmobapp":"mobapptechnology/mobapptechno_git/master/zee_anmol/service_json/category",
+
+	"dangal":"mobapptechnology/mobapptechno_git/master/dangal/service_json",
+	"dangalsubmobapp":"mobapptechnology/mobapptechno_git/master/dangal/service_json/category",
+
+	"mod":"mobapptechnology/mobapptechno_git/master/mod/service_json",
+	"modsubmobapp":"mobapptechnology/mobapptechno_git/master/mod/service_json/category",
+
+	"nico":"mobapptechnology/mobapptechno_git/master/nico/service_json",
+	"nicosubmobapp":"mobapptechnology/mobapptechno_git/master/nico/service_json/category",
+
 }
