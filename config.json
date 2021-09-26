@@ -87,6 +87,12 @@
 	"modsubmobapp":"mobapptechnology/mobapptechno_git/master/mod/service_json/category",
 
 	"nico":"mobapptechnology/mobapptechno_git/master/nico/service_json",
-	"nicosubmobapp":"mobapptechnology/mobapptechno_git/master/nico/service_json/category"
+	"nicosubmobapp":"mobapptechnology/mobapptechno_git/master/nico/service_json/category",
+
+	"vcity":"mobapptechnology/mobapptechno_git/master/vcity/service_json",
+	"vcitysubmobapp":"mobapptechnology/mobapptechno_git/master/vcity/service_json/category",
+
+	"lulubox":"mobapptechnology/mobapptechno_git/master/lulubox/service_json",
+	"luluboxsubmobapp":"mobapptechnology/mobapptechno_git/master/lulubox/service_json/category"
 
 }
