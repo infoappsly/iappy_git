@@ -96,6 +96,9 @@
 	"luluboxsubmobapp":"mobapptechnology/mobapptechno_git/master/lulubox/service_json/category",
 
 	"yellow":"mobapptechnology/mobapptechno_git/master/yellow/service_json",
-	"yellowsubmobapp":"mobapptechnology/mobapptechno_git/master/yellow/service_json/category"
+	"yellowsubmobapp":"mobapptechnology/mobapptechno_git/master/yellow/service_json/category",
+
+	"ffskin":"mobapptechnology/mobapptechno_git/master/ffskin/service_json",
+	"ffskinsubmobapp":"mobapptechnology/mobapptechno_git/master/ffskin/service_json/category"
 
 }
