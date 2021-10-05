@@ -99,6 +99,12 @@
 	"yellowsubmobapp":"mobapptechnology/mobapptechno_git/master/yellow/service_json/category",
 
 	"ffskin":"mobapptechnology/mobapptechno_git/master/ffskin/service_json",
-	"ffskinsubmobapp":"mobapptechnology/mobapptechno_git/master/ffskin/service_json/category"
+	"ffskinsubmobapp":"mobapptechnology/mobapptechno_git/master/ffskin/service_json/category",
+
+	"ghd":"mobapptechnology/mobapptechno_git/master/ghd/service_json",
+	"ghdubmobapp":"mobapptechnology/mobapptechno_git/master/ghd/service_json/category",
+
+	"starsports":"mobapptechnology/mobapptechno_git/master/starsports/service_json",
+	"starsportsubmobapp":"mobapptechnology/mobapptechno_git/master/starsports/service_json/category"
 
 }
