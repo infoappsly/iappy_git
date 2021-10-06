@@ -105,6 +105,11 @@
 	"ghdubmobapp":"mobapptechnology/mobapptechno_git/master/ghd/service_json/category",
 
 	"starsports":"mobapptechnology/mobapptechno_git/master/starsports/service_json",
-	"starsportsubmobapp":"mobapptechnology/mobapptechno_git/master/starsports/service_json/category"
+	"starsportsubmobapp":"mobapptechnology/mobapptechno_git/master/starsports/service_json/category",
+
+	"pikashow":"mobapptechnology/mobapptechno_git/master/pikashow/service_json",
+	"pikashowsubmobapp":"mobapptechnology/mobapptechno_git/master/pikashow/service_json/category"
+
+
 
 }
