@@ -114,7 +114,10 @@
 	"scaryteachersubmobapp":"mobapptechnology/mobapptechno_git/master/scaryteacher/service_json/category",
 
 	"geosupertv":"mobapptechnology/mobapptechno_git/master/geosupertv/service_json",
-	"geosupertvsubmobapp":"mobapptechnology/mobapptechno_git/master/geosupertv/service_json/category"
+	"geosupertvsubmobapp":"mobapptechnology/mobapptechno_git/master/geosupertv/service_json/category",
+
+	"tocalife":"mobapptechnology/mobapptechno_git/master/tocalife/service_json",
+	"tocalifesubmobapp":"mobapptechnology/mobapptechno_git/master/tocalife/service_json/category"
 
 
 }
