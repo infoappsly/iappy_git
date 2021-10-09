@@ -108,8 +108,10 @@
 	"starsportsubmobapp":"mobapptechnology/mobapptechno_git/master/starsports/service_json/category",
 
 	"pikashow":"mobapptechnology/mobapptechno_git/master/pikashow/service_json",
-	"pikashowsubmobapp":"mobapptechnology/mobapptechno_git/master/pikashow/service_json/category"
+	"pikashowsubmobapp":"mobapptechnology/mobapptechno_git/master/pikashow/service_json/category",
 
+	"scaryteacher":"mobapptechnology/mobapptechno_git/master/scaryteacher/service_json",
+	"scaryteachersubmobapp":"mobapptechnology/mobapptechno_git/master/scaryteacher/service_json/category"
 
 
 }
