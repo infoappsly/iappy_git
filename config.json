@@ -111,7 +111,10 @@
 	"pikashowsubmobapp":"mobapptechnology/mobapptechno_git/master/pikashow/service_json/category",
 
 	"scaryteacher":"mobapptechnology/mobapptechno_git/master/scaryteacher/service_json",
-	"scaryteachersubmobapp":"mobapptechnology/mobapptechno_git/master/scaryteacher/service_json/category"
+	"scaryteachersubmobapp":"mobapptechnology/mobapptechno_git/master/scaryteacher/service_json/category",
+
+	"geosupertv":"mobapptechnology/mobapptechno_git/master/geosupertv/service_json",
+	"geosupertvsubmobapp":"mobapptechnology/mobapptechno_git/master/geosupertv/service_json/category"
 
 
 }
