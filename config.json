@@ -120,6 +120,9 @@
 	"tocalifesubmobapp":"mobapptechnology/mobapptechno_git/master/tocalife/service_json/category",
 
 	"facetime":"mobapptechnology/mobapptechno_git/master/facetime/service_json",
-	"facetimesubmobapp":"mobapptechnology/mobapptechno_git/master/facetime/service_json/category"
+	"facetimesubmobapp":"mobapptechnology/mobapptechno_git/master/facetime/service_json/category",
+
+	"squadgame":"mobapptechnology/mobapptechno_git/master/squadgame/service_json",
+	"squadgamesubmobapp":"mobapptechnology/mobapptechno_git/master/squadgame/service_json/category"
 
 }
