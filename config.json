@@ -123,6 +123,9 @@
 	"facetimesubmobapp":"mobapptechnology/mobapptechno_git/master/facetime/service_json/category",
 
 	"squadgame":"mobapptechnology/mobapptechno_git/master/squadgame/service_json",
-	"squadgamesubmobapp":"mobapptechnology/mobapptechno_git/master/squadgame/service_json/category"
+	"squadgamesubmobapp":"mobapptechnology/mobapptechno_git/master/squadgame/service_json/category",
+
+	"scooter":"mobapptechnology/mobapptechno_git/master/scooter/service_json",
+	"scootergamesubmobapp":"mobapptechnology/mobapptechno_git/master/scooter/service_json/category"
 
 }
