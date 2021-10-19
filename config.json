@@ -126,6 +126,9 @@
 	"squadgamesubmobapp":"mobapptechnology/mobapptechno_git/master/squadgame/service_json/category",
 
 	"scooter":"mobapptechnology/mobapptechno_git/master/scooter/service_json",
-	"scootergamesubmobapp":"mobapptechnology/mobapptechno_git/master/scooter/service_json/category"
+	"scootergamesubmobapp":"mobapptechnology/mobapptechno_git/master/scooter/service_json/category",
+
+	"gasstation":"mobapptechnology/mobapptechno_git/master/gasstation/service_json",
+	"gasstationgamesubmobapp":"mobapptechnology/mobapptechno_git/master/gasstation/service_json/category"
 
 }
