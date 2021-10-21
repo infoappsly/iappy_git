@@ -38,7 +38,7 @@
     "inner_native": "1",
     "banner_priority": "1",
     "interstitial_priority": "2",
-    "spalsh_interstial_type": "4",
+    "spalsh_interstial_type": "1",
     "exit_interstial_type": "4",
     "open_ads_type": "1",
     "isActivitySkip": "n",
