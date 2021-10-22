@@ -129,6 +129,12 @@
 	"scootergamesubmobapp":"mobapptechnology/mobapptechno_git/master/scooter/service_json/category",
 
 	"gasstation":"mobapptechnology/mobapptechno_git/master/gasstation/service_json",
-	"gasstationgamesubmobapp":"mobapptechnology/mobapptechno_git/master/gasstation/service_json/category"
+	"gasstationgamesubmobapp":"mobapptechnology/mobapptechno_git/master/gasstation/service_json/category",
+
+	"wobblylife":"mobapptechnology/mobapptechno_git/master/wobblylife/service_json",
+	"wobblylifegamesubmobapp":"mobapptechnology/mobapptechno_git/master/wobblylife/service_json/category",
+
+	"sakuraschool":"mobapptechnology/mobapptechno_git/master/sakuraschool/service_json",
+	"sakuraschoolsubmobapp":"mobapptechnology/mobapptechno_git/master/sakuraschool/service_json/category"
 
 }
