@@ -3,6 +3,11 @@
 	"configjdwala":"jenishdaruwala27031991/jdwala_git/master",
 	"configmobapp":"mobapptechnology/mobapptechno_git/master",
 	"configappssmart":"appssmart/api/master",
+
+	"testservicemobapp":"appssmart/api/master/digital_seva/service_json",
+	"testservicesubmobapp":"appssmart/api/master/digital_seva/service_json/category",	
+	"testmoreappmobappetc":"appssmart/api/master/app_list_api/etc",
+
 	"servicemobapp":"mobapptechnology/mobapptechno_git/master/digital_seva/service_json",
 	"servicesubmobapp":"mobapptechnology/mobapptechno_git/master/digital_seva/service_json/category",	
 	"moreappmobapp":"mobapptechnology/mobapptechno_git/master/app_list_api/final",
