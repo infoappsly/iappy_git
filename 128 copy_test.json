@@ -31,7 +31,7 @@
         "mopub_native_main": "b9ae32aafdad43d1b3381047a24694ed",
         "mopub_native_exit": "b9ae32aafdad43d1b3381047a24694ed",
         "mopub_native_web": "b9ae32aafdad43d1b3381047a24694ed",
-        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/app_list_api/final/get_app_list.json/moreappdata_json.json",
         "app_title": "Informations",
         "interstitial_skip": 2,
         "moreapp_data": "",
