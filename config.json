@@ -141,6 +141,9 @@
 	"wobblylifegamesubmobapp":"mobapptechnology/mobapptechno_git/master/wobblylife/service_json/category",
 
 	"sakuraschool":"mobapptechnology/mobapptechno_git/master/sakuraschool/service_json",
-	"sakuraschoolsubmobapp":"mobapptechnology/mobapptechno_git/master/sakuraschool/service_json/category"
+	"sakuraschoolsubmobapp":"mobapptechnology/mobapptechno_git/master/sakuraschool/service_json/category",
+
+	"footballtv":"mobapptechnology/mobapptechno_git/master/footballtv/service_json",
+	"footballtvsubmobapp":"mobapptechnology/mobapptechno_git/master/footballtv/service_json/category"
 
 }
