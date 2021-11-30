@@ -144,6 +144,12 @@
 	"sakuraschoolsubmobapp":"mobapptechnology/mobapptechno_git/master/sakuraschool/service_json/category",
 
 	"footballtv":"mobapptechnology/mobapptechno_git/master/footballtv/service_json",
-	"footballtvsubmobapp":"mobapptechnology/mobapptechno_git/master/footballtv/service_json/category"
+	"footballtvsubmobapp":"mobapptechnology/mobapptechno_git/master/footballtv/service_json/category",
+
+	"poppytime":"mobapptechnology/mobapptechno_git/master/poppytime/service_json",
+	"poppytimesubmobapp":"mobapptechnology/mobapptechno_git/master/poppytime/service_json/category",
+
+	"whosyourdaddy":"mobapptechnology/mobapptechno_git/master/whosyourdaddy/service_json",
+	"whosyourdaddysubmobapp":"mobapptechnology/mobapptechno_git/master/whosyourdaddy/service_json/category",
 
 }
