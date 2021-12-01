@@ -150,6 +150,9 @@
 	"poppytimesubmobapp":"mobapptechnology/mobapptechno_git/master/poppytime/service_json/category",
 
 	"whosyourdaddy":"mobapptechnology/mobapptechno_git/master/whosyourdaddy/service_json",
-	"whosyourdaddysubmobapp":"mobapptechnology/mobapptechno_git/master/whosyourdaddy/service_json/category"
+	"whosyourdaddysubmobapp":"mobapptechnology/mobapptechno_git/master/whosyourdaddy/service_json/category",
+
+	"voirfilms":"mobapptechnology/mobapptechno_git/master/voirfilms/service_json",
+	"voirfilmssubmobapp":"mobapptechnology/mobapptechno_git/master/voirfilms/service_json/category"
 
 }
