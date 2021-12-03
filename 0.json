@@ -2,7 +2,7 @@
   "status": "1",
   "data": [
       {
-        "id": "10", 
+        "id": "0", 
         "gg_native": "float-7982",
         "gg_banner": "float-7985",
         "gg_app_oped_ad": "float-7984",
@@ -39,6 +39,7 @@
         "interstitial_priority": "1",
         "spalsh_interstitial_type": "1",
         "exit_interstitial_type": "1",
+        "isSubcategory_active": "n",
         "open_ads_type": "1",
         "isActivitySkip": "n",
         "ad_interval_time": "1",
