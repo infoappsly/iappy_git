@@ -1,0 +1,42 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "200",
+        "gg_native": "float-7982",
+        "gg_banner": "float-7985",
+        "gg_app_oped_ad": "float-7984",
+        "gg_interstitial": "float-7983",
+        "gg_interstitial_splash": "float-7983",
+        "gg_interstitial_exit": "float-7983",
+        "google_open_ads": "ca-app-pub-9547041870880076/4527651417",
+        "google_banner": "ca-app-pub-9547041870880076/7976135353",
+        "google_native_exit": "ca-app-pub-9547041870880076/7944345767",
+        "google_native_web": "ca-app-pub-9547041870880076/7153814756",
+        "google_interstitial": "ca-app-pub-9547041870880076/6631264092",
+        "google_interstitial_splash": "ca-app-pub-9547041870880076/7944345767",
+        "google_interstitial_exit": "ca-app-pub-9547041870880076/1570509109",
+        "google_interstitial_two": "ca-app-pub-9547041870880076/1570509109",
+        "google_interstitial_splash_two": "ca-app-pub-9547041870880076/1570509109",
+        "google_interstitial_exit_two": "ca-app-pub-9547041870880076/1570509109",
+        "mopub_Interstitial": "f762738b10814daaa0c447bf961c4c76",
+        "mopub_Interstitial_exit": "aba2130c1c0948f8825de1ef43587eae",
+        "mopub_Interstitial_splash": "a2344b49b963439ba8588f96f72615bf",
+        "mopub_banner": "a962b02405ff4625a832bfdebe1f4560",
+        "mopub_native_exit": "b51f9d8693b642bea45fb387fd8f861f",
+        "mopub_native_web": "6a2b32010ddf44e1a1c4b03ff19319f9",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "Informations",
+        "interstitial_skip": 2,
+        "native_priority": "1",
+        "banner_priority": "1",
+        "interstitial_priority": "1",
+        "spalsh_interstitial_priority": "1",
+        "open_ads_type": "1",
+        "isActivitySkip": "n",
+        "ad_interval_time": "1",
+        "gg_app_id": "77828871",
+        "isSubcategory_active": "y"
+      }
+  ]
+}
