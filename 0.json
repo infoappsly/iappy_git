@@ -37,9 +37,9 @@
         "ad_interval_time": "1",
         "gg_app_id": "77828871",
         "isSubcategory_active": "n",		
-        "agora_app_id": "b97269088902494ba9f7a0ccb9cd2069",
-        "agora_channel": "demoChannel1",
-        "agora_app_certificate": "e9a915eb42274af9976f8845dc7650d8"
+        "agora_app_id": "c33d49fa998e4a82bf4aae0e84e237e5",
+        "agora_channel": "videocall",
+        "agora_app_certificate": "c2702448631d44ac83fa3cbf70b58bf5"
       }
   ]
 }
