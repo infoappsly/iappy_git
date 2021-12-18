@@ -27,7 +27,7 @@
         "mopub_native_web": "",
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Informations",
-        "interstitial_skip": 3,
+        "interstitial_skip": 4,
         "native_priority": "1",
         "banner_priority": "1",
         "interstitial_priority": "1",
