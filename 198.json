@@ -27,16 +27,16 @@
         "mopub_native_web": "138bfc4a8d90426c8675eab7443a51e0",
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Informations",
-        "interstitial_skip": 2,
+        "interstitial_skip": 4,
         "native_priority": "1",
         "banner_priority": "1",
         "interstitial_priority": "1",
-        "spalsh_interstitial_priority": "1",
+        "spalsh_interstitial_priority": "6",
         "open_ads_type": "1",
         "isActivitySkip": "n",
-        "ad_interval_time": "1",
+        "ad_interval_time": "0",
         "gg_app_id": "77828871",
-        "isSubcategory_active": "n"
+        "isSubcategory_active": "y"
       }
   ]
 }
