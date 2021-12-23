@@ -30,7 +30,7 @@
         "interstitial_skip": 2,
         "native_priority": "1",
         "banner_priority": "1",
-        "interstitial_priority": ["","google","","","mopub","mopub","","googletwo",""],
+        "interstitial_priority": ["google"],
         "spalsh_interstitial_priority": ["appopen_google"],
         "open_ads_type": "1",
         "isActivitySkip": "y",
