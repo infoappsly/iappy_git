@@ -155,6 +155,9 @@
 	"whosyourdaddysubmobapp":"mobapptechnology/mobapptechno_git/master/whosyourdaddy/service_json/category",
 
 	"voirfilms":"mobapptechnology/mobapptechno_git/master/voirfilms/service_json",
-	"voirfilmssubmobapp":"mobapptechnology/mobapptechno_git/master/voirfilms/service_json/category"
+	"voirfilmssubmobapp":"mobapptechnology/mobapptechno_git/master/voirfilms/service_json/category",
+
+	"paint_pocket":"mobapptechnology/mobapptechno_git/master/paint_pocket/service_json",
+	"paint_pocketsubmobapp":"mobapptechnology/mobapptechno_git/master/paint_pocket/service_json/category"
 
 }
