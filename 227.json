@@ -1,0 +1,42 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "227",
+        "gg_native": "float-7982",
+        "gg_banner": "float-7985",
+        "gg_app_oped_ad": "float-7984",
+        "gg_interstitial": "float-7983",
+        "gg_interstitial_splash": "float-7983",
+        "gg_interstitial_exit": "float-7983",
+        "google_open_ads": "ca-app-pub-4245478356585892/9250919503",
+        "google_banner": "ca-app-pub-4245478356585892/9706021554",
+        "google_native_exit": "ca-app-pub-4245478356585892/1564001175",
+        "google_native_web": "ca-app-pub-4245478356585892/2877082841",
+        "google_interstitial": "ca-app-pub-4245478356585892/7079858219",
+        "google_interstitial_splash": "ca-app-pub-4245478356585892/5503246183",
+        "google_interstitial_exit": "ca-app-pub-4245478356585892/9887050617",
+        "google_interstitial_two": "ca-app-pub-4245478356585892/9887050617",
+        "google_interstitial_splash_two": "ca-app-pub-4245478356585892/9887050617",
+        "google_interstitial_exit_two": "ca-app-pub-4245478356585892/9887050617",
+        "mopub_Interstitial": "c0b22e2b0a844a798a005f9b363e7312",
+        "mopub_Interstitial_exit": "2c0208f677d247449a6eb63cc26d1774",
+        "mopub_Interstitial_splash": "00e01f184c464396a4731e9a9a4ddcc7",
+        "mopub_banner": "2e547bf9653c4000b5bab8085048aace",
+        "mopub_native_exit": "7fbd8a71a3284aceab89d5e106168619",
+        "mopub_native_web": "0805d890a0c747ada33f1f13b4e190c4",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "Informations",
+        "interstitial_skip": 2,
+        "native_priority": "2",
+        "banner_priority": "2",
+        "interstitial_priority": ["mopub","mopub","mopub","google"],
+        "spalsh_interstitial_priority": ["mopub"],
+        "adCountInCategory": 3,
+        "isActivitySkip": "n",
+        "ad_interval_time": "1",
+        "gg_app_id": "77828871",
+        "isSubcategory_active": "y"
+      }
+  ]
+}
