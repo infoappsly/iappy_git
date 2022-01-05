@@ -8,7 +8,7 @@
 	"testservicesubmobapp":"appssmart/api/master/digital_seva/service_json/category",	
 	"testmoreappmobapp":"appssmart/api/master/app_list_api",
 
-	"testservicesmartapp":"appssmart/api/main/smartapp",
+	"testservicesmartapp":"appssmart/api/master/smartapp",
 
 	"testservicemobappwithoutcategory":"appssmart/api/master/digital_seva/category_json",
 
