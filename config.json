@@ -8,6 +8,8 @@
 	"testservicesubmobapp":"appssmart/api/master/digital_seva/service_json/category",	
 	"testmoreappmobapp":"appssmart/api/master/app_list_api",	
 
+	
+
 	"testservicemobappwithoutcategory":"appssmart/api/master/digital_seva/category_json",
 
 	"servicemobapp":"mobapptechnology/mobapptechno_git/master/digital_seva/service_json",
@@ -15,6 +17,8 @@
 	"moreappmobapp":"mobapptechnology/mobapptechno_git/master/app_list_api/final",
 	"moreappmobappetc":"mobapptechnology/mobapptechno_git/master/app_list_api/etc",
 	"picmixframe":"mobapptechnology/mobapptechno_git/master/picmix",
+
+
 
 	"bswnfifteeninoneapp":"mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/frames",
 	"bswnfifteeninoneappframemain":"mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/framemain",
@@ -30,6 +34,7 @@
 	"bswnfifteeninoneappgreetingcardmaker":"mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/greetingcardmaker",
 	"bswnfifteeninoneappphotoframe":"mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/photoframe",
 
+	"socialsmartapp":"mobapptechnology/mobapptechno_git/master/social_smartapp/service_json",
 
 	"homeproperty":"mobapptechnology/mobapptechno_git/master/home_property/service_json",
 	"homepropertysubmobapp":"mobapptechnology/mobapptechno_git/master/home_property/service_json/category",
