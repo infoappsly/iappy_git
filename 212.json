@@ -26,7 +26,7 @@
         "mopub_native_exit": "cd10ba6451d244b382bc626062f5257b",
         "mopub_native_web": "625412248507524_625412321840850",
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "app_title": "Informations",
+        "app_title": "Live Cricket Score",
         "interstitial_skip": 1,
         "native_priority": "2",
         "banner_priority": "2",
