@@ -8,7 +8,7 @@
 	"testservicesubmobapp":"appssmart/api/master/digital_seva/service_json/category",	
 	"testmoreappmobapp":"appssmart/api/master/app_list_api",	
 
-	"testphotoeditor":"appssmart/api/master/digital_seva/service_json",	
+	"testphotoeditor":"appssmart/api/master/photoeditor/service_json",	
 
 	
 
