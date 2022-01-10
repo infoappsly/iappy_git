@@ -32,7 +32,7 @@
         "banner_priority": "2",
         "interstitial_priority": ["mopub"],
         "spalsh_interstitial_priority": ["mopub"],
-        "adCountInCategory": 2,
+        "adCountInCategory": 1,
         "isActivitySkip": "n",
         "ad_interval_time": "1",
         "gg_app_id": "77828871",
