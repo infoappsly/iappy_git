@@ -10,6 +10,8 @@
 
 	"testphotoeditor":"appssmart/api/master/photoeditor/service_json",	
 
+
+
 	
 
 	"testservicemobappwithoutcategory":"appssmart/api/master/digital_seva/category_json",
@@ -20,6 +22,7 @@
 	"moreappmobappetc":"mobapptechnology/mobapptechno_git/master/app_list_api/etc",
 	"picmixframe":"mobapptechnology/mobapptechno_git/master/picmix",
 
+	"photoeditor":"appssmart/api/master/photoeditor/service_json",	
 
 
 	"bswnfifteeninoneapp":"mobapptechnology/mobapptechno_git/master/birthdaysongwithnamefifteeninoneapp/frames",
