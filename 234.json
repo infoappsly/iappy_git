@@ -2,7 +2,7 @@
   "status": "1",
   "data": [
       {
-        "id": "160",
+        "id": "0",
         "gg_native": "float-7982",
         "gg_banner": "float-7985",
         "gg_app_oped_ad": "float-7984",
@@ -19,24 +19,25 @@
         "google_interstitial_two": "",
         "google_interstitial_splash_two": "",
         "google_interstitial_exit_two": "",
-        "mopub_Interstitial": "",
-        "mopub_Interstitial_exit": "",
-        "mopub_Interstitial_splash": "",
-        "mopub_banner": "",
-        "mopub_native_exit": "",
-        "mopub_native_web": "",
+        "mopub_Interstitial": "ef5d8b842a3f437986738da72d517d65",
+        "mopub_Interstitial_exit": "ce2ee906e4a841f59cb4fcc93ae4178e",
+        "mopub_Interstitial_splash": "b36a4f2b414b433894b444c22c179d13",
+        "mopub_banner": "36ef963a8bff4205ae2c7d5109e10820",
+        "mopub_native_exit": "773cf0401d1649298e61c43b7b42ccc7",
+        "mopub_native_web": "de64c3f8605b4807a1b9e2862874b65e",
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "app_title": "Informations",
-        "interstitial_skip": 2,
+        "app_title": "App",
+        "interstitial_skip": 1,
         "native_priority": "2",
         "banner_priority": "2",
-        "interstitial_priority": ["mopub","mopub","mopub","mopub"],
+        "interstitial_priority": ["mopub"],
         "spalsh_interstitial_priority": ["mopub"],
-        "adCountInCategory": 3,
+        "open_ads_type": "1",
+        "adCountInCategory": 1,
         "isActivitySkip": "n",
-        "ad_interval_time": "1",
+        "ad_interval_time": "2",
         "gg_app_id": "77828871",
-        "isSubcategory_active": "y"
+        "isSubcategory_active": "y"        
       }
   ]
 }
