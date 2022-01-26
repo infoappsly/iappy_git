@@ -1,0 +1,43 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "0",
+        "gg_native": "float-7982",
+        "gg_banner": "float-7985",
+        "gg_app_oped_ad": "float-7984",
+        "gg_interstitial": "float-7983",
+        "gg_interstitial_splash": "float-7983",
+        "gg_interstitial_exit": "float-7983",
+        "google_open_ads": "",
+        "google_banner": "",
+        "google_native_exit": "",
+        "google_native_web": "",
+        "google_interstitial": "",
+        "google_interstitial_splash": "",
+        "google_interstitial_exit": "",
+        "google_interstitial_two": "",
+        "google_interstitial_splash_two": "",
+        "google_interstitial_exit_two": "",
+        "mopub_Interstitial": "caa3097d0fff48349e78134f113a1591",
+        "mopub_Interstitial_exit": "70fe232a8b0342a4b94635eb500b2c68",
+        "mopub_Interstitial_splash": "89e9815cd4a448a2b0c8c9283ec6839a",
+        "mopub_banner": "89098e0a91524fb4ae534bc326cbbee2",
+        "mopub_native_exit": "4e04ae2a012d43ce99221fb736917662",
+        "mopub_native_web": "96a0016e724c4f6184ace7b4b55d7ec1",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "App",
+        "interstitial_skip": 1,
+        "native_priority": "2",
+        "banner_priority": "2",
+        "interstitial_priority": ["mopub"],
+        "spalsh_interstitial_priority": ["mopub"],
+        "open_ads_type": "1",
+        "adCountInCategory": 1,
+        "isActivitySkip": "n",
+        "ad_interval_time": "2",
+        "gg_app_id": "77828871",
+        "isSubcategory_active": "y"        
+      }
+  ]
+}
