@@ -168,6 +168,9 @@
 	"voirfilmssubmobapp":"mobapptechnology/mobapptechno_git/master/voirfilms/service_json/category",
 
 	"paint_pocket":"mobapptechnology/mobapptechno_git/master/paint_pocket/service_json",
-	"paint_pocketsubmobapp":"mobapptechnology/mobapptechno_git/master/paint_pocket/service_json/category"
+	"paint_pocketsubmobapp":"mobapptechnology/mobapptechno_git/master/paint_pocket/service_json/category",
+
+	"screenmirror":"mobapptechnology/mobapptechno_git/master/screenmirror/service_json",
+	"screenmirrorsubmobapp":"mobapptechnology/mobapptechno_git/master/screenmirror/service_json/category"
 
 }
