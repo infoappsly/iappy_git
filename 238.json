@@ -26,7 +26,7 @@
         "mopub_native_exit": "d3bba69175344a05981061a450b9a1fb",
         "mopub_native_web": "1bec08ba8e6e4a15a27f2deffa0cda2d",
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "app_title": "App",
+        "app_title": "Football Score",
         "interstitial_skip": 1,
         "native_priority": "2",
         "banner_priority": "2",
