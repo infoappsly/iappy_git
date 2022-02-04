@@ -1,0 +1,36 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "261",
+        "gg_native": "float-7982",
+        "gg_banner": "float-7985",		
+        "gg_interstitial_splash": "float-7983",
+        "gg_interstitial_exit": "float-7983",
+        "google_open_ads": "ca-app-pub-9524786398587527/1896747472",
+        "google_banner": "ca-app-pub-9524786398587527/1948718369",
+        "google_native_exit": "ca-app-pub-9524786398587527/3151981217",
+        "google_native_web": ["7220e7dfdb164783924794d54be1a848","7c9505fedaee4625b9ba38fa16a197e2","795ef1a2fe3f49ecab69321a57d7cff8","a3b7780894414b1db4cb261df4a0e4ce","0fd2438d934647f59e12874ca02d0a20"],
+        "google_interstitial": ["2d45219ddf9446699529ea907687bbef","6e4c5820b0374d74a741dc3ea2df2e3f","ca013dec18064c5fa2330f5e1c557bae","03afce4c13cf4deabe1505e6a69e901f","fc8fcb0b3d1f44ef9ed4fde9884aa9b9"],		
+        "google_interstitial_splash": ["fc8fcb0b3d1f44ef9ed4fde9884aa9b9","03afce4c13cf4deabe1505e6a69e901f","ca013dec18064c5fa2330f5e1c557bae","6e4c5820b0374d74a741dc3ea2df2e3f","2d45219ddf9446699529ea907687bbef"],
+        "google_interstitial_two": "ca-app-pub-9524786398587527/5835992489",
+        "google_interstitial_splash_two": "ca-app-pub-9524786398587527/8322555021",
+        "mopub_Interstitial_exit": "46cbdaf251ab4dfbb5a59e513a1b1692",
+        "mopub_Interstitial_splash": "d5f74730fd73406991c6acc89b74833a",
+        "mopub_banner": "a4a00211451c4aaab181c283cdd5f136",
+        "mopub_native_exit": "1238294bcb564ed98b65f773ff61455a",		
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "Informations",
+        "interstitial_skip": 1,		
+        "native_priority": ["mopub"],
+        "banner_priority": "2",
+        "interstitial_priority": ["mopub"],
+        "spalsh_interstitial_priority": ["mopub"],		
+        "adCountInCategory": 1,
+        "isActivitySkip": "n",
+        "ad_interval_time": "0",
+        "gg_app_id": "77828871",
+        "isSubcategory_active": "y"        
+      }
+  ]
+}
