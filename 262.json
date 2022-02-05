@@ -23,7 +23,7 @@
         "app_title": "Informations",
         "interstitial_skip": 1,		
         "native_priority": ["mopub","mopub","mopub","mopub","mopub"],
-        "banner_priority": "2",
+        "banner_priority": "1",
         "interstitial_priority": ["mopub","mopub","mopub","mopub","mopub"],
         "spalsh_interstitial_priority": ["mopub","mopub","mopub","mopub","mopub"],		
         "adCountInCategory": 1,
