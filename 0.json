@@ -20,7 +20,7 @@
         "mopub_interstial_splash_fail": "24534e1901884e398f1253216226017e",
         "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
         "mopub_native_fail": "11a17b188668469fb0412708c3d16813",
-        "moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Informations",
         "interstitial_skip": 1,		
         "native_priority": ["mopub"],
