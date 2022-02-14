@@ -1,0 +1,38 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "1",
+        "gg_native": "float-7982",
+        "gg_banner": "float-7985",		
+        "gg_interstitial_splash": "float-7983",
+        "gg_interstitial_exit": "float-7983",
+        "gg_open_ads": "float-7983",
+        "google_open_ads": "",
+        "google_banner": "",
+        "google_rewarded_ad": "",
+        "common_native": [""],
+        "common_interstial": [""],
+        "common_interstial_splash": [""],
+        "google_interstial_fail": "",
+        "google_interstial_splash_fail ": "",
+        "google_native_fail": "",
+        "mopub_interstial_fail": "",
+        "mopub_interstial_splash_fail": "",
+        "mopub_banner": "",
+        "mopub_native_fail": "",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "Informations",
+        "interstitial_skip": 0,
+        "native_priority": ["mopub"],
+        "banner_priority": "2",
+        "interstitial_priority": ["mopub"],
+        "spalsh_interstitial_priority": ["mopub"],		
+        "adCountInCategory": 1,
+        "isActivitySkip": "n",
+        "ad_interval_time": "0",
+        "gg_app_id": "77828871",
+        "isSubcategory_active": "y"        
+      }
+  ]
+}
