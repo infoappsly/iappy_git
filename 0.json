@@ -32,7 +32,9 @@
         "isActivitySkip": "n",
         "ad_interval_time": "0",
         "gg_app_id": "77828871",
-        "isSubcategory_active": "y"       
+        "isSubcategory_active": "y",
+        "app_redirectOtherAppStatus": "n",
+		    "webview_custom_tab": "n"
       }
   ]
 }
