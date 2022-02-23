@@ -2,21 +2,16 @@
   "status": "1",
   "data": [
       {
-        "id": "1",        
-        "google_rewarded_ad": "",
-        "google_open_ads": "",
+        "id": "1",
         "google_banner": "",
-        "applovin_banner ": "",
-        "mopub_banner": "",
-        "google_interstial_splash_fail ": "",
-        "mopub_interstial_splash_fail": "",
-        "applovin_interstial_splash_fail": "",
-        "applovin_interstial_fail": "",
-        "mopub_interstial_fail": "",
         "google_interstial_fail": "",
+        "google_interstial_splash_fail ": "",
         "google_native_fail": "",
+        "google_open_ads": "",
+        "mopub_banner": "",
+        "mopub_interstial_fail": "",
+        "mopub_interstial_splash_fail": "",
         "mopub_native_fail": "",
-        "applovin_native_fail": "",
         "common_native": ["","",""],
         "common_interstial": ["","",""],
         "common_interstial_splash": ["","",""],
@@ -34,12 +29,17 @@
         "app_redirectOtherAppStatus": "n",
         "webview_custom_tab": "y",
         "openapp_fail": "mopub",
+        "applovin_banner ": "",
+        "applovin_interstial_splash_fail": "",
+        "applovin_interstial_fail": "",
+        "applovin_native_fail": "",
         "gg_app_id": "77828871",
         "gg_native": "float-7982",
         "gg_banner": "float-7985",
         "gg_interstitial_splash": "float-7983",
         "gg_interstitial_exit": "float-7983",
-        "gg_open_ads": "float-7983"
+        "gg_open_ads": "float-7983",
+        "google_rewarded_ad": ""
       }
   ]
 }
