@@ -27,7 +27,7 @@
         "mopub_native_web": "5ab3af3e2aed482b8c64d162a723a617",
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Airtel Tv",
-        "interstitial_skip": 1,
+        "interstitial_skip": 0,
         "native_priority": "2",
         "banner_priority": "2",
         "interstitial_priority": ["mopub"],
@@ -35,7 +35,7 @@
         "open_ads_type": "1",
         "adCountInCategory": 1,
         "isActivitySkip": "n",
-        "ad_interval_time": "2",
+        "ad_interval_time": "1",
         "gg_app_id": "77828871",
         "isSubcategory_active": "y"        
       }
