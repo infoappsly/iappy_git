@@ -1,0 +1,39 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "295",
+        "google_banner": "",
+        "google_interstial_fail": "",
+        "google_interstial_splash_fail ": "",
+        "google_native_fail": "",
+        "google_open_ads": "",
+        "mopub_banner": "993b1ffcd55741feb56a85c052faa580",
+        "mopub_interstial_fail": "b69615f7f28e453b859b78daf2d79620",
+        "mopub_interstial_splash_fail": "5c1d320aaf0440858bf8f4fcbeafb2ca",
+        "mopub_native_fail": "2eb50038337e43ab80e359dd9feed1bd",
+        "common_native": ["8252413c02a545bc9e313fb1a3462faa","fc2a6eb436a54810abe4f7afe2514e7d","91c826f201094f5e8884d41fe585bdbd","03933e1abfb34265bde589d094629150","5c9a32e82c534c40b24e44619f2bfabe"],
+        "common_interstial": ["f9df80a9c0144fd5852cf0f4548e9122","5cf1bd172652493f8c9f69d0c9fac934","edd5b68942074bba9d86fffb63370cfa","47295418e7bf4a778a36a8bb3632c3da","90f033a241b0442ea4db2035348bd963"],
+        "common_interstial_splash": ["90f033a241b0442ea4db2035348bd963","47295418e7bf4a778a36a8bb3632c3da","edd5b68942074bba9d86fffb63370cfa","5cf1bd172652493f8c9f69d0c9fac934","f9df80a9c0144fd5852cf0f4548e9122"],
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "Informations",        
+        "native_priority": ["mopub"],
+        "banner_priority": "2",
+        "interstitial_priority": ["mopub"],
+        "spalsh_interstitial_priority": ["mopub"],
+        "adCountInCategory": 1,
+        "ad_interval_time": "0",
+        "interstitial_skip": 0,
+        "isSubcategory_active": "y",
+        "isActivitySkip": "n",
+        "app_redirectOtherAppStatus": "n",
+        "webview_custom_tab": "y",
+        "openapp_fail": "mopub",
+        "applovin_banner ": "",
+        "applovin_interstial_splash_fail": "",
+        "applovin_interstial_fail": "",
+        "applovin_native_fail": "",        
+        "google_rewarded_ad": ""
+      }
+  ]
+}
