@@ -3,11 +3,11 @@
   "data": [
       {
         "id": "277",
-        "google_banner": "",
-        "google_interstial_fail": "",
-        "google_interstial_splash_fail ": "",
-        "google_native_fail": "",
-        "google_open_ads": "",
+        "google_banner": "ca-app-pub-3012454251892709/9472794637",
+        "google_interstial_fail": "ca-app-pub-3012454251892709/6846631294",
+        "google_interstial_splash_fail ": "ca-app-pub-3012454251892709/5599276039",
+        "google_native_fail": "ca-app-pub-3012454251892709/9346949350",
+        "google_open_ads": "ca-app-pub-3012454251892709/6720786016",
         "mopub_banner": "43aaf1b993fc457a8fcd7977f4050f90",
         "mopub_interstial_fail": "5cc98b71e9074ba4acca93f7890a427f",
         "mopub_interstial_splash_fail": "60f997c4dd904c6f9bf3ff5ce025a006",
