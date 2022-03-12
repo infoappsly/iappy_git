@@ -1,0 +1,39 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "298",
+        "google_banner": "",
+        "google_interstial_fail": "",
+        "google_interstial_splash_fail ": "",
+        "google_native_fail": "",
+        "google_open_ads": "",
+        "mopub_banner": "c8ed7beaeeba4f8b970dae7ea8ba2bfb",
+        "mopub_interstial_fail": "5b8c9a4761a64f2e9fcb5e2c10a268b4",
+        "mopub_interstial_splash_fail": "ef31ed3cb54b46078e633a6de4a155f6",
+        "mopub_native_fail": "d02fb7617dc54b95a0a82149492acac2",
+        "common_native": ["d02fb7617dc54b95a0a82149492acac2"],
+        "common_interstial": ["5b8c9a4761a64f2e9fcb5e2c10a268b4"],
+        "common_interstial_splash": ["ef31ed3cb54b46078e633a6de4a155f6"],
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "Informations",        
+        "native_priority": ["mopub"],
+        "banner_priority": "2",
+        "interstitial_priority": ["mopub"],
+        "spalsh_interstitial_priority": ["mopub"],
+        "adCountInCategory": 1,
+        "ad_interval_time": "0",
+        "interstitial_skip": 0,
+        "isSubcategory_active": "y",
+        "isActivitySkip": "n",
+        "app_redirectOtherAppStatus": "n",
+        "webview_custom_tab": "y",
+        "openapp_fail": "mopub",
+        "applovin_banner ": "",
+        "applovin_interstial_splash_fail": "",
+        "applovin_interstial_fail": "",
+        "applovin_native_fail": "",        
+        "google_rewarded_ad": ""
+      }
+  ]
+}
