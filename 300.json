@@ -29,10 +29,10 @@
         "app_redirectOtherAppStatus": "n",
         "webview_custom_tab": "y",
         "openapp_fail": "mopub",
-        "applovin_banner ": "",
-        "applovin_interstial_splash_fail": "",
-        "applovin_interstial_fail": "",
-        "applovin_native_fail": "",        
+        "applovin_banner ": "43b03d6fb5dbf4b4",
+        "applovin_interstial_splash_fail": "a34b2c24445ac510",
+        "applovin_interstial_fail": "a34b2c24445ac510",
+        "applovin_native_fail": "bf3829b680be35b0",
         "google_rewarded_ad": ""
       }
   ]
