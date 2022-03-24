@@ -1,0 +1,39 @@
+{
+  "status": "1",
+  "data": [
+      {
+        "id": "317",
+        "google_banner": "ca-app-pub-4014116528250667/3354080591",
+        "google_interstial_fail": "ca-app-pub-4014116528250667/8331947242",
+        "google_interstial_splash_fail ": "ca-app-pub-4014116528250667/8331947242",
+        "google_native_fail": "ca-app-pub-4014116528250667/9097361866",
+        "google_open_ads": "ca-app-pub-4014116528250667/8414835582",
+        "mopub_banner": "48c92eca03844d7e8858c2a8490f8574",
+        "mopub_interstial_fail": "287c7d3468ac427ab40cc13da975b017",
+        "mopub_interstial_splash_fail": "287c7d3468ac427ab40cc13da975b017",
+        "mopub_native_fail": "f334683d17044bfa8df831d51827c92f",
+        "common_native": ["fece65a0cd1c44f4861b0838800fcf6a","0e74cde91a9e4abbb156d554ed935329","0d78e269b133498ba6b13c0cd7c82495"],
+        "common_interstial": ["3fdacfc9fccf4b23a4a5608c049ac876","f2a54a720fa54e208c4d3bccd934afda","f6f6c18f1f8f4089ae3590eb94950c10","4397a916f47147df92b97cd2d0a834fc","f803b15ac6bd4479bb1db4db656d080e"],
+        "common_interstial_splash": ["f803b15ac6bd4479bb1db4db656d080e","4397a916f47147df92b97cd2d0a834fc","f6f6c18f1f8f4089ae3590eb94950c10","f2a54a720fa54e208c4d3bccd934afda","3fdacfc9fccf4b23a4a5608c049ac876"],
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
+        "app_title": "Informations",        
+        "native_priority": ["mopub"],
+        "banner_priority": "2",
+        "interstitial_priority": ["mopub"],
+        "spalsh_interstitial_priority": ["mopub"],
+        "adCountInCategory": 1,
+        "ad_interval_time": "0",
+        "interstitial_skip": 0,
+        "isSubcategory_active": "y",
+        "isActivitySkip": "n",
+        "app_redirectOtherAppStatus": "n",
+        "webview_custom_tab": "y",
+        "openapp_fail": "mopub",
+        "applovin_banner ": "",
+        "applovin_interstial_splash_fail": "",
+        "applovin_interstial_fail": "",
+        "applovin_native_fail": "",        
+        "google_rewarded_ad": ""
+      }
+  ]
+}
