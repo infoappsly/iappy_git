@@ -15,7 +15,7 @@
         "common_native": ["35c79607ff50467dab6967a3779a3fad","82b3012ac89044ab8de436080db94411","a78777efeb074cebbb484ef14eaffa3c"],
         "common_interstial": ["1d4cdad6146441f3a3169589149251ef","c7143e04b4984280af6a190fd079ecf9","ec1a851e9e434b8e8b2bb6cabd5e30aa","0eab96a73d2a4f10ad6ebdc79ed83546","44073cf2171145799bbf37e264618429"],
         "common_interstial_splash": ["44073cf2171145799bbf37e264618429","0eab96a73d2a4f10ad6ebdc79ed83546","ec1a851e9e434b8e8b2bb6cabd5e30aa","c7143e04b4984280af6a190fd079ecf9","1d4cdad6146441f3a3169589149251ef"],
-        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_blank_all.json",
+        "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Informations",        
         "native_priority": ["mopub"],
         "banner_priority": "2",
