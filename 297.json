@@ -3,6 +3,12 @@
   "data": [
       {
         "id": "297",
+        "tapdaq_app_id":"",
+        "tapdaq_client_key":"",		
+        "facebook_interstial_splash_fail":"",
+        "facebook_interstial_fail":"",
+        "facebook_native_fail":"",
+        "facebook_banner":"",
         "google_banner": "ca-app-pub-4014116528250667/2046035644",
         "google_interstial_fail": "ca-app-pub-4014116528250667/3223385947",
         "google_interstial_splash_fail ": "ca-app-pub-4014116528250667/3223385947",
