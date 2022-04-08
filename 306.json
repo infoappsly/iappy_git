@@ -20,7 +20,7 @@
         "common_interstial_splash": ["ca-app-pub-8013342534008224/7461087813"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
         "app_title": "Cricket Fantsay Center",
-        "interstitial_skip": 0,
+        "interstitial_skip": 3,
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["google"],
