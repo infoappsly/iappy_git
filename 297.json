@@ -41,7 +41,7 @@
         "isActivitySkip": "n",
         "app_redirectOtherAppStatus": "n",
         "webview_custom_tab": "y",
-        "openapp_fail": "google",
+        "openapp_fail": "imgbanner",
         "applovin_banner ": "177100fee7de9706",
         "applovin_interstial_splash_fail": "10e2036b9e305b48",
         "applovin_interstial_fail": "10e2036b9e305b48",
