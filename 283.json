@@ -23,7 +23,7 @@
         "common_interstial": [""],
         "common_interstial_splash": [""],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
-        "app_title": "Informations",        
+        "app_title": "Cricket Fantasy Center",        
         "native_priority": ["google"],
         "banner_priority": "1",
         "interstitial_priority": ["google"],
