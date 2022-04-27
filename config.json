@@ -5,7 +5,11 @@
 	"configappssmart":"appssmart/api/master",
 
 	"testservicemobapp":"appssmart/api/master/digital_seva/service_json",
-	"testservicesubmobapp":"appssmart/api/master/digital_seva/service_json/category",	
+	"testservicesubmobapp":"appssmart/api/master/digital_seva/service_json/category",
+	"testservicemobapp_extra":"appssmart/api/master/digital_seva_backup/service_json",
+	"testservicesubmobapp_extra":"appssmart/api/master/digital_seva_backup/service_json/category",
+
+	
 	"testmoreappmobapp":"appssmart/api/master/app_list_api",
 	"codelover":"appssmart/api/master/codelover",
 
