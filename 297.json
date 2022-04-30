@@ -25,7 +25,7 @@
         "mopub_interstial_fail": "",
         "mopub_interstial_splash_fail": "",
         "mopub_native_fail": "",
-        "common_native": ["b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc","b6256f2f8f38dc"],
+        "common_native": ["b6256f2f8f38dc"],
         "common_interstial": ["b6256f305b9cca"],
         "common_interstial_splash": ["b6256f305b9cca"],
         "moreapp_json": "https://raw.githubusercontent.com/mobapptechnology/mobapptechno_git/master/moreappdata_json.json",
