@@ -8,6 +8,7 @@
 	"testservicesubmobapp":"appssmart/api/master/digital_seva/service_json/category",	
 	"testservicemobapp_extra":"appssmart/api/master/digital_seva_backup/service_json",
 	"testservicesubmobapp_extra":"appssmart/api/master/digital_seva_backup/service_json/category",
+	"testtrackplex":"appssmart/api/master/trackplex/service_json",
 
 	
 	"testmoreappmobapp":"appssmart/api/master/app_list_api",
