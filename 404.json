@@ -39,7 +39,7 @@
         "banner_priority": "3",
         "interstitial_priority": ["facebook"],
         "spalsh_interstitial_priority": ["facebook"],
-        "fail_priority": "google",
+        "fail_priority": "toponad",
         "openapp_fail": "facebook",
         "isActivitySkip": "n",
         "ad_interval_time": "0",		
