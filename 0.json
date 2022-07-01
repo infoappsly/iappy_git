@@ -39,7 +39,8 @@
         "webview_custom_tab": "n",        
         "openapp_fail": "facebook",
         "trackplex_token": ["YkEZyciKEeynZ0IcvqllRQ"],
-        "isYoutubeEnable": "n"
+        "isYoutubeEnable": "n",
+        "is_provider_enable": "n"
       }
   ]
 }
