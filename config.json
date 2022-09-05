@@ -17,6 +17,8 @@
 	"testphotoeditor":"appssmart/api/master/photoeditor/service_json",	
 	"wallpaperringtone":"appssmart/api/master/wallpaperringtone/service_json",	
 
+	"testpostermaker":"appssmart/api/master/poster_maker/service_json",	
+
 	
 
 
@@ -39,6 +41,7 @@
 
 
 	"photoeditor":"mobapptechnology/mobapptechno_git/master/photoeditor/service_json",	
+
 
 	"wallpaperringtone_live":"mobapptechnology/mobapptechno_git/master/wallpaperringtone/service_json",	
 	"tone":"mobapptechnology/mobapptechno_git/master/wallpaperringtone/service_json",	
