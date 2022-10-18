@@ -21,7 +21,8 @@
 	"testtemplatemaker":"appssmart/api/master/poster_maker/template/service_json",
 	"testsizemaker":"appssmart/api/master/poster_maker/size/service_json",
 
-	"testinvitationcardmaker":"appssmart/api/master/greetingcard/service_json",
+	"testinvitationcardmaker":"appssmart/api/master/greetingcard/service_json_invitation",
+	"testgreetingscardmaker":"appssmart/api/master/greetingcard/service_json_greetings",
 
 	
 
