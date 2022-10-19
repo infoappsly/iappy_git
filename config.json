@@ -23,6 +23,7 @@
 
 	"testinvitationcardmaker":"appssmart/api/master/greetingcard/service_json_invitation",
 	"testgreetingscardmaker":"appssmart/api/master/greetingcard/service_json_greetings",
+	"testmainservice":"appssmart/api/master/greetingcard",
 
 	
 
