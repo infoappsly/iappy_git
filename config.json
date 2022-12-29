@@ -33,7 +33,9 @@
 	"testmainservice":"appssmart/api/master/greetingcard",
 
 	
-
+	"invitationcardmaker":"appssmart/api/master/greetingcard/service_json_invitation",
+	"greetingscardmaker":"appssmart/api/master/greetingcard/service_json_greetings",
+	"mainservice":"appssmart/api/master/greetingcard",
 	
 
 	
